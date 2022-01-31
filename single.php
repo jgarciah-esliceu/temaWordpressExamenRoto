@@ -5,6 +5,6 @@
         the_post(); ?>
             
         
-    <?php } ?>
+    <?php } include "template-parts/content/content-single.php"?>
 
 <?php get_footer(); ?>
