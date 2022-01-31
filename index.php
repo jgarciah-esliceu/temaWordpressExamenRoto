@@ -28,7 +28,7 @@
         <div class="row">
             <div class="col-md-6"><?php echo get_bloginfo("description") ?> </div>
             <div class="col-md-6">
-               Menú
+              <?php get_footer()?>
             </div>
         </div>
     </div>
