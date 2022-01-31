@@ -8,7 +8,7 @@
 
   <?php wp_head(); ?>
 
-  <title><?php ?></title>
+  <title><?php bloginfo()?></title>
 </head>
 
 <body>
